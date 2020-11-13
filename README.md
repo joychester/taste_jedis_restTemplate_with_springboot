@@ -1,1 +1,1 @@
-# tyr_jedis_restTemplate_with_sprintboot
+# taste_jedis_restTemplate_with_sprintboot
