@@ -1,0 +1,5 @@
+cache:
+  ttlInSec:
+    eventCache: 30
+    listingCache: 30
+    default: 15
